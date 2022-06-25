@@ -18,7 +18,7 @@
   "homepage": "https://github.com/psolbach/xjournalism-tw-observer#readme",
   "dependencies": {
     "dotenv": "^8.0.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "sqlite3": "^4.0.9",
     "twit": "^2.2.11"
   }
