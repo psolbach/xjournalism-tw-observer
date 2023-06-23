@@ -19,7 +19,7 @@
   "dependencies": {
     "dotenv": "^8.0.0",
     "node-fetch": "^2.6.0",
-    "sqlite3": "^4.0.9",
+    "sqlite3": "^5.1.6",
     "twit": "^2.2.11"
   }
 }
